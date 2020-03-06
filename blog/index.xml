@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>What does &#34;working&#34; mean here?</title>
-    <link>https://aeturnum.dev/</link>
-    <description>Recent content on What does &#34;working&#34; mean here?</description>
+    <title>Blog on What does &#34;working&#34; mean here?</title>
+    <link>https://aeturnum.dev/blog/</link>
+    <description>Recent content in Blog on What does &#34;working&#34; mean here?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 21 Feb 2020 00:35:16 -0500</lastBuildDate>
     
-	<atom:link href="https://aeturnum.dev/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aeturnum.dev/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -29,18 +29,6 @@
       <guid>https://aeturnum.dev/blog/text-pitch/</guid>
       <description>The real title of this essay is 🚬🤡😳🤯, but Hugo (the tool used to generate this blog) can&amp;rsquo;t handle emoji in the title, so we have a fake title.
    Fig 1   How does this (fake) text exchange (Fig 1) read to you? How do you read the response? To me, the response (&amp;ldquo;Mom&amp;rdquo;) is assertive and definitive. A declaration in periods. Two full stops in a short message.</description>
-    </item>
-    
-    <item>
-      <title>Home</title>
-      <link>https://aeturnum.dev/home/</link>
-      <pubDate>Wed, 19 Feb 2020 14:59:10 -0500</pubDate>
-      
-      <guid>https://aeturnum.dev/home/</guid>
-      <description>Background I&amp;rsquo;m a software &amp;ldquo;engineer&amp;rdquo; and a Science, Technology &amp;amp; Society scholar.
-I focus on intersections of software and social experience, especially the social aspects of software work.
-Work I&amp;rsquo;m in the process of completing a Masters in Science, Technology &amp;amp; Society at Drexel University. My ongoing masters project is hosted on github.
-I&amp;rsquo;ve previously worked as a software engineer for a series of startups that no longer exist and briefly for Qualcomm after an acquisition.</description>
     </item>
     
   </channel>

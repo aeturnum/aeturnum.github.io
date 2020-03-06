@@ -3,21 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://aeturnum.dev/blog/</loc>
+    <lastmod>2020-02-21T00:35:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aeturnum.dev/tags/paper/</loc>
+    <lastmod>2020-02-21T00:35:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aeturnum.dev/tags/sts/</loc>
+    <lastmod>2020-02-21T00:35:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aeturnum.dev/tags/</loc>
+    <lastmod>2020-02-21T00:35:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aeturnum.dev/blog/text-does-not-exist/</loc>
+    <lastmod>2020-02-21T00:35:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aeturnum.dev/blog/text-pitch/</loc>
+    <lastmod>2020-02-21T00:35:16-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://aeturnum.dev/</loc>
+    <lastmod>2020-02-21T00:35:16-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://aeturnum.dev/home/</loc>
     <lastmod>2020-02-19T14:59:10-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://aeturnum.dev/</loc>
-    <lastmod>2020-02-19T14:59:10-05:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://aeturnum.dev/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>https://aeturnum.dev/tags/</loc>
   </url>
   
 </urlset>

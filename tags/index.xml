@@ -6,9 +6,28 @@
     <description>Recent content in Tags on What does &#34;working&#34; mean here?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
+    <lastBuildDate>Fri, 21 Feb 2020 00:35:16 -0500</lastBuildDate>
     
 	<atom:link href="https://aeturnum.dev/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Paper</title>
+      <link>https://aeturnum.dev/tags/paper/</link>
+      <pubDate>Fri, 21 Feb 2020 00:35:16 -0500</pubDate>
+      
+      <guid>https://aeturnum.dev/tags/paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STS</title>
+      <link>https://aeturnum.dev/tags/sts/</link>
+      <pubDate>Fri, 21 Feb 2020 00:35:16 -0500</pubDate>
+      
+      <guid>https://aeturnum.dev/tags/sts/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
