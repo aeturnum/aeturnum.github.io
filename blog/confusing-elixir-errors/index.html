@@ -1095,10 +1095,10 @@ margin-left: -4%;
 <p>Elixir is built on top of erlang and each version of elixir is designed to work with a particular version of <a href="https://erlang.org/doc/">erlang (and OTP)</a>.</p>
 <p>What first caused my problem was that I upgraded elixir to 1.10 (and then 1.11) but I didn&rsquo;t change the version of mix (and the cached copies of <code>rebar3</code> &amp; <code>rebar</code> Mix uses to build erlang code). Then I compounded that problem by using <code>brew</code> to install an independent copy of <code>rebar</code> that was, I think, sometimes getting used because it was on <code>$PATH</code> and would get picked up by scripts.</p>
 <h2 id="fix">The fix</h2>
-<p>First try:</p>
-<p><code>mix local.hex</code>
-<code>mix local.rebar</code></p>
-<p>This will replace your local cached hex and rebar with whatever version your installed version of elixir wants. If this fails, try uninstalling elixir and erlang entirely and reinstalling them.</p>
+<p>First try these two commands:</p>
+<pre><code>mix local.hex 
+mix local.rebar
+</code></pre><p>This will replace your local cached hex and rebar with whatever version your installed version of elixir wants. If this fails, try uninstalling elixir and erlang entirely and reinstalling them.</p>
 
 
             </div>
