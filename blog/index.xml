@@ -6,10 +6,21 @@
     <description>Recent content in Blog on What does &#34;working&#34; mean here?</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 21 Feb 2020 00:35:16 -0500</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2020 11:12:42 -0700</lastBuildDate>
     
 	<atom:link href="https://aeturnum.dev/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Confusing Elixir Errors</title>
+      <link>https://aeturnum.dev/blog/confusing-elixir-errors/</link>
+      <pubDate>Wed, 07 Oct 2020 11:12:42 -0700</pubDate>
+      
+      <guid>https://aeturnum.dev/blog/confusing-elixir-errors/</guid>
+      <description>TL;DR Fixing Elixir Errors that Make No Sense I spent the last ~day of side project time being confused by errors that made no sense like:
+  Can&amp;#39;t compile hackney?!   Other mindbending erros that made no sense included:
+ (Mix) Could not find a Mix.Project, please ensure a mix.exs file is available (Mix) Could not compile dependency :elixir_make  Often these did not include an error message at all, or included error messages like erlang complaining about ===&amp;gt; Uncaught error: {badmatch,[]} when trying to compile a dependency.</description>
+    </item>
     
     <item>
       <title>It is Impossible to Write Text</title>
